@@ -8,6 +8,6 @@
 	</PropertyGroup>
 
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
-		<Exec Command="XCOPY /E /Y $(ProjectDir)Binaries\* $(ProjectDir)$(OutDir)" />
+		<Exec Command="XCOPY /E /Y $(ProjectDir)Dlls\* $(ProjectDir)$(OutDir)" />
 	</Target>
 </Project>
