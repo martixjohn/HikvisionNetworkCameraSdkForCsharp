@@ -32,10 +32,10 @@ Special Descriptions:
 
   - 海康C/C++ 头文件声明封装
 
-	- Encapsulation of official C/C++ headers
+  - Encapsulation of official C/C++ headers
 
 - CameraDevice.cs
   
-	- C#类相机API
+  - C#类相机API
 
-	- C# API for Camera Device
+  - C# API for Camera Device
